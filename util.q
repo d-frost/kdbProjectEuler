@@ -4,3 +4,5 @@ getPrimesTil:{[x]
  primes:(-1_2+til x)except divs;
  primes
  };
+
+maxPathSum:{[x;y] max each sum each' y,/:'2#'n where 1<count each n:(1_)\[x]};
