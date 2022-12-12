@@ -1,6 +1,6 @@
 // What is the total of all the name scores in the file?
 
-names:asc csv vs raze except[;"\""]read0 `:p022_names.txt;
+names:asc csv vs raze except[;"\""]read0 `:p22.txt;
 
 \
 
